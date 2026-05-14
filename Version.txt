@@ -1,0 +1,3 @@
+local _Version = "1.0v"
+
+game:GetService("ServerScriptService"):WaitForChlid("AutoSettings"):SetAttribute("Version", _Version)
